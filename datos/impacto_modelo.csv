@@ -1,0 +1,5 @@
+tipo_resultado,numero_reservas,ingreso_estimado,ingreso_medio_reserva,probabilidad_media_cancelacion
+Falso negativo: cancelación no detectada,757,249862.75,330.07,0.36
+Falso positivo: alerta de cancelación que no se cancela,2843,1318909.56,463.91,0.68
+Verdadero negativo: no cancelada detectada correctamente,9470,3171776.41,334.93,0.16
+Verdadero positivo: cancelación detectada correctamente,3957,2021581.12,510.89,0.79

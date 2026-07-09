@@ -1,0 +1,3 @@
+hotel,tasa_cancelacion,ingreso_medio_reserva_no_cancelada,capacidad_simulada,reservas_necesarias,reservas_extra_estimadas,habitaciones_vacias_sin_overbooking,ingreso_adicional_potencial
+City Hotel,0.42,312.15,100,172.0,72.0,41.79,13043.45
+Resort Hotel,0.28,401.08,100,139.0,39.0,27.77,11137.21
